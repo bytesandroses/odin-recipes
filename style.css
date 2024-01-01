@@ -1,0 +1,29 @@
+h1 {
+  background-color: burlywood;
+  color: darkgreen;
+  font-family: Georgia, 'Times New Roman', Times, Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+
+#menu {
+  background-color: chocolate;
+  color: honeydew;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.description {
+  font-size: 20px;
+  text-align: left;
+  font-family: Garamond, serif;
+}
+
+.ingredients {
+  background-color: rgba(210, 105, 30, 0.486);
+}
+
+.steps {
+  background-color: rgba(0, 100, 0, 0.336);
+}
