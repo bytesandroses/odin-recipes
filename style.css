@@ -1,17 +1,38 @@
 h1 {
-  background-color: burlywood;
-  color: darkgreen;
+  background-color: #F48CB3;
+  color: #ffffff;
   font-family: Georgia, 'Times New Roman', Times, Arial, Helvetica, sans-serif;
   font-size: 60px;
   text-align: center;
+  margin: 0;
+  padding: 80px;
 }
 
-#menu {
-  background-color: chocolate;
-  color: honeydew;
+span {
+  display: inline-block;
+}
+
+a.fill-a {
+  color: #ffffff;
   font-size: 30px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+
+.menu {
+  background-color: #6EC1E4;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  margin-right: auto;
+  padding: 25px;
+  width: 392px;
+  height: 140px;
+  text-align: center; 
 }
 
 .description {
